@@ -1,0 +1,10 @@
+git+https://github.com/Rapptz/discord.py.git
+PyNaCl
+discord
+dotenv
+ffmpeg-python
+SpeechRecognition
+youtube-search-python
+youtube-dl
+requests
+json
