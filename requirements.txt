@@ -5,5 +5,5 @@ python-dotenv
 ffmpeg-python
 SpeechRecognition
 youtube-search-python
-youtube-dl
+youtube_dl
 requests
