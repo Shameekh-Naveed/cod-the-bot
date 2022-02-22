@@ -5,7 +5,7 @@ from discord.ext import commands
 from dotenv import load_dotenv
 from speech_recognition_module import recognize_speech
 from RPS import RPS
-import youtube_dl
+import yt_dlp
 from youtubesearchpython import VideosSearch
 import json
 from requests import get
@@ -287,7 +287,7 @@ async def play(ctx,url):
     YDL_OPTIONS = {'format': 'bestaudio'}
     vc = ctx.voice_client
     
-    with youtube_dl.YoutubeDL(YDL_OPTIONS) as ydl:
+    with yt_dlp.YoutubeDL(YDL_OPTIONS) as ydl:
         url = VideosSearch(url, limit = 2)
         y=url.result()
         x=y['result'][0]['link']
