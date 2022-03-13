@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="codthebot_0"></a>cod-the-bot</h1>
-<p class="has-line-data" data-line-start="1" data-line-end="2">Want this bot for your discord server? Text me and I’ll send you the link.</p>
+<p class="has-line-data" data-line-start="1" data-line-end="2">Want this bot for your discord server? Message me and I’ll send you the link.</p>
 <p class="has-line-data" data-line-start="3" data-line-end="4">Here is a list of currently available commands:</p>
 <p class="has-line-data" data-line-start="5" data-line-end="9">General Interaction with the Bot:<br>
 !hello - display a list of available commands<br>
